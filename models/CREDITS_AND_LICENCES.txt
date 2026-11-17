@@ -1,0 +1,14 @@
+Anatomy 3D Simulation Lab v2 - credits and licences for the 3D models in this folder
+
+anatomy-male.js / anatomy-female.js contain GLB models (base64) from the open-anatomy-3d package
+(https://github.com/MervinR07/open-anatomy-3d), code MIT, models CC BY 4.0.
+
+Required attribution:
+Anatomy: BodyParts3D (c) The Database Center for Life Science (DBCLS), CC BY 4.0
+(https://creativecommons.org/licenses/by/4.0/); female organs: Human Reference Atlas 3D Reference
+Organs, HuBMAP (CC BY 4.0); female body: MakeHuman (CC0). Modified by open-anatomy-3d, CC BY 4.0.
+
+Changes made for this teaching app: meshes regrouped, the brain, brainstem, pharynx, lungs and uterus
+split into teaching regions/lobes, recoloured by body system, and combined with schematic teaching parts
+(heart chambers and valves, renal pyramids, glands, nerves).
+No proprietary 3D assets are used. Keep this folder next to Anatomy_3D_Simulation_Lab_v2.html.
